@@ -1,2 +1,2 @@
-# okane
+# Okane
 Budgeting app
